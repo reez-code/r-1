@@ -1,5 +1,7 @@
 body {
-  font-family: Arial, sans-serif; /* Fallback font family */
+  font-family: "Emilys Candy", serif;
+  font-weight: 400;
+  font-style: normal;
   text-align: center; /* Center-align text */
   margin: 0; /* Remove default margin */
   background-color: #fadadd; /* Set background color to light pink */
@@ -13,12 +15,10 @@ body {
   height: 100vh; /* Make the container full viewport height */
 }
 
-#image-container {
-  /* This container will hold the images */
-}
-
 #question {
-  font-family: "Sacramento", cursive; /* Apply Sacramento font to the question */
+  font-family: "Emilys Candy", serif;
+  font-weight: 400;
+  font-style: normal; /* Apply Sacramento font to the question */
   font-size: 52px; /* Set font size for the question */
 }
 
@@ -30,7 +30,9 @@ button {
   padding: 10px 20px; /* Set padding for buttons */
   margin: 0 10px; /* Set margin around buttons */
   font-size: 26px; /* Set font size for buttons */
-  font-family: "Sacramento", cursive; /* Apply Sacramento font to the options */
+  font-family: "Pacifico", serif;
+  font-weight: 400;
+  font-style: normal;
   background-color: #fb607f; /* Set button background color */
   color: white; /* Set text color to white */
   border: none; /* Remove button border */
